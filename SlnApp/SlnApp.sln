@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.UI.WebMVC", "App.UI.WebMVC\App.UI.WebMVC.csproj", "{0232A967-12AD-498A-AB2F-63CBF7FEE8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.UI.WebMVC.Tests", "App.UI.WebMVC.Tests\App.UI.WebMVC.Tests.csproj", "{452CA909-8483-469F-B9E4-24E4CB15AB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0232A967-12AD-498A-AB2F-63CBF7FEE8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0232A967-12AD-498A-AB2F-63CBF7FEE8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0232A967-12AD-498A-AB2F-63CBF7FEE8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0232A967-12AD-498A-AB2F-63CBF7FEE8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452CA909-8483-469F-B9E4-24E4CB15AB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452CA909-8483-469F-B9E4-24E4CB15AB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452CA909-8483-469F-B9E4-24E4CB15AB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452CA909-8483-469F-B9E4-24E4CB15AB69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {932DD08E-8498-430E-B71E-2CA19A9D046C}
+	EndGlobalSection
+EndGlobal

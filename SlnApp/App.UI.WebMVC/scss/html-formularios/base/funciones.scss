@@ -1,0 +1,5 @@
+﻿@mixin borde-redondo($border-radio, $border-width:1px)
+{
+    border-width:$border-width;
+    border-radius:$border-radio;
+}

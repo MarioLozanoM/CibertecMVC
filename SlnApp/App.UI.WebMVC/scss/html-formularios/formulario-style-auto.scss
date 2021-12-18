@@ -1,0 +1,25 @@
+﻿@import 'base/colores.scss';
+@import 'base/funciones.scss';
+
+body {
+    padding: 30px;
+    background-color:$color-pagina;
+}
+
+form section {
+    margin: 15px;
+
+    label {
+        color: #0f568a;
+        font-weight: bold;
+        display: inline-block;
+        width: 170px;
+        text-align: right;
+    }
+
+     input, form select {
+        padding: 5px;
+        @include borde-redondo(15px,2px);
+    }
+}
+
